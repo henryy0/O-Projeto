@@ -1,0 +1,32 @@
+C:\Users\carlos.hnsilva1\source\repos\henryy0\O-Projeto\O Projeto\bin\Debug\net6.0-windows\O Projeto.exe
+C:\Users\carlos.hnsilva1\source\repos\henryy0\O-Projeto\O Projeto\bin\Debug\net6.0-windows\O Projeto.deps.json
+C:\Users\carlos.hnsilva1\source\repos\henryy0\O-Projeto\O Projeto\bin\Debug\net6.0-windows\O Projeto.runtimeconfig.json
+C:\Users\carlos.hnsilva1\source\repos\henryy0\O-Projeto\O Projeto\bin\Debug\net6.0-windows\O Projeto.dll
+C:\Users\carlos.hnsilva1\source\repos\henryy0\O-Projeto\O Projeto\bin\Debug\net6.0-windows\O Projeto.pdb
+C:\Users\carlos.hnsilva1\source\repos\henryy0\O-Projeto\O Projeto\bin\Debug\net6.0-windows\MetroFramework.Design.dll
+C:\Users\carlos.hnsilva1\source\repos\henryy0\O-Projeto\O Projeto\bin\Debug\net6.0-windows\MetroFramework.Fonts.dll
+C:\Users\carlos.hnsilva1\source\repos\henryy0\O-Projeto\O Projeto\bin\Debug\net6.0-windows\MetroFramework.dll
+C:\Users\carlos.hnsilva1\source\repos\henryy0\O-Projeto\O Projeto\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\carlos.hnsilva1\source\repos\henryy0\O-Projeto\O Projeto\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\carlos.hnsilva1\source\repos\henryy0\O-Projeto\O Projeto\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\carlos.hnsilva1\source\repos\henryy0\O-Projeto\O Projeto\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\carlos.hnsilva1\source\repos\henryy0\O-Projeto\O Projeto\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\carlos.hnsilva1\source\repos\henryy0\O-Projeto\O Projeto\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\carlos.hnsilva1\source\repos\henryy0\O-Projeto\O Projeto\obj\Debug\net6.0-windows\O Projeto.csproj.AssemblyReference.cache
+C:\Users\carlos.hnsilva1\source\repos\henryy0\O-Projeto\O Projeto\obj\Debug\net6.0-windows\O_Projeto.Calendario.resources
+C:\Users\carlos.hnsilva1\source\repos\henryy0\O-Projeto\O Projeto\obj\Debug\net6.0-windows\O_Projeto.Inicial.resources
+C:\Users\carlos.hnsilva1\source\repos\henryy0\O-Projeto\O Projeto\obj\Debug\net6.0-windows\O_Projeto.Properties.Resources.resources
+C:\Users\carlos.hnsilva1\source\repos\henryy0\O-Projeto\O Projeto\obj\Debug\net6.0-windows\O_Projeto.UserControlBlank.resources
+C:\Users\carlos.hnsilva1\source\repos\henryy0\O-Projeto\O Projeto\obj\Debug\net6.0-windows\O Projeto.csproj.GenerateResource.cache
+C:\Users\carlos.hnsilva1\source\repos\henryy0\O-Projeto\O Projeto\obj\Debug\net6.0-windows\O Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.hnsilva1\source\repos\henryy0\O-Projeto\O Projeto\obj\Debug\net6.0-windows\O Projeto.AssemblyInfoInputs.cache
+C:\Users\carlos.hnsilva1\source\repos\henryy0\O-Projeto\O Projeto\obj\Debug\net6.0-windows\O Projeto.AssemblyInfo.cs
+C:\Users\carlos.hnsilva1\source\repos\henryy0\O-Projeto\O Projeto\obj\Debug\net6.0-windows\O Projeto.csproj.CoreCompileInputs.cache
+C:\Users\carlos.hnsilva1\source\repos\henryy0\O-Projeto\O Projeto\obj\Debug\net6.0-windows\O Projeto.csproj.CopyComplete
+C:\Users\carlos.hnsilva1\source\repos\henryy0\O-Projeto\O Projeto\obj\Debug\net6.0-windows\O Projeto.dll
+C:\Users\carlos.hnsilva1\source\repos\henryy0\O-Projeto\O Projeto\obj\Debug\net6.0-windows\refint\O Projeto.dll
+C:\Users\carlos.hnsilva1\source\repos\henryy0\O-Projeto\O Projeto\obj\Debug\net6.0-windows\O Projeto.pdb
+C:\Users\carlos.hnsilva1\source\repos\henryy0\O-Projeto\O Projeto\obj\Debug\net6.0-windows\O Projeto.genruntimeconfig.cache
+C:\Users\carlos.hnsilva1\source\repos\henryy0\O-Projeto\O Projeto\obj\Debug\net6.0-windows\ref\O Projeto.dll
+C:\Users\carlos.hnsilva1\source\repos\henryy0\O-Projeto\O Projeto\obj\Debug\net6.0-windows\O_Projeto.UserControlDays.resources
+C:\Users\carlos.hnsilva1\source\repos\henryy0\O-Projeto\O Projeto\obj\Debug\net6.0-windows\O_Projeto.Evento.resources
