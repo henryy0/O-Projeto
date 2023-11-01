@@ -72,7 +72,8 @@
             this.roundPictureBox1.Image = global::O_Projeto.Properties.Resources.crie_um_icone_com_o_nome_collabopro__1_;
             this.roundPictureBox1.Location = new System.Drawing.Point(12, 12);
             this.roundPictureBox1.Name = "roundPictureBox1";
-            this.roundPictureBox1.Size = new System.Drawing.Size(75, 75);
+            this.roundPictureBox1.Size = new System.Drawing.Size(100, 100);
+            this.roundPictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.roundPictureBox1.TabIndex = 5;
             this.roundPictureBox1.TabStop = false;
             // 
@@ -92,13 +93,13 @@
             // 
             this.label2.AutoSize = true;
             this.label2.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label2.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label2.Font = new System.Drawing.Font("Times New Roman", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
             this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(22, 52);
+            this.label2.Location = new System.Drawing.Point(118, 52);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(363, 25);
+            this.label2.Size = new System.Drawing.Size(176, 44);
             this.label2.TabIndex = 7;
-            this.label2.Text = "Esse é um Software de Gestão de Projetos";
+            this.label2.Text = "Esse é um Software \r\nde Gestão de Projetos";
             this.label2.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
             // Inicial
