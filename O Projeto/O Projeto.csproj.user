@@ -5,10 +5,46 @@
     <Compile Update="Calendario.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="frmChat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmChat2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmedicao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmEquipe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmNovaEquipe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmProjetos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTarefa.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Evento.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Frmcadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmrelatorio.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Inicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MDIPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="RoundPictureBox.cs">

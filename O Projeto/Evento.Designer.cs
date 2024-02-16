@@ -31,8 +31,8 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.Save = new System.Windows.Forms.Button();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.txtDate = new System.Windows.Forms.TextBox();
+            this.txtEvent = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // label1
@@ -61,29 +61,30 @@
             this.Save.TabIndex = 2;
             this.Save.Text = "Save";
             this.Save.UseVisualStyleBackColor = true;
+            this.Save.Click += new System.EventHandler(this.Save_Click);
             // 
-            // textBox1
+            // txtDate
             // 
-            this.textBox1.Enabled = false;
-            this.textBox1.Location = new System.Drawing.Point(39, 52);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(151, 23);
-            this.textBox1.TabIndex = 3;
+            this.txtDate.Enabled = false;
+            this.txtDate.Location = new System.Drawing.Point(39, 52);
+            this.txtDate.Name = "txtDate";
+            this.txtDate.Size = new System.Drawing.Size(151, 23);
+            this.txtDate.TabIndex = 3;
             // 
-            // textBox2
+            // txtEvent
             // 
-            this.textBox2.Location = new System.Drawing.Point(39, 135);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(151, 23);
-            this.textBox2.TabIndex = 4;
+            this.txtEvent.Location = new System.Drawing.Point(39, 135);
+            this.txtEvent.Name = "txtEvent";
+            this.txtEvent.Size = new System.Drawing.Size(151, 23);
+            this.txtEvent.TabIndex = 4;
             // 
             // Evento
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(236, 227);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtEvent);
+            this.Controls.Add(this.txtDate);
             this.Controls.Add(this.Save);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
@@ -101,7 +102,7 @@
         private Label label1;
         private Label label2;
         private Button Save;
-        private TextBox textBox1;
-        private TextBox textBox2;
+        private TextBox txtDate;
+        private TextBox txtEvent;
     }
 }

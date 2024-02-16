@@ -48,6 +48,7 @@
             this.Login.Text = "Login";
             this.Login.UseSelectable = true;
             this.Login.UseVisualStyleBackColor = false;
+            this.Login.Click += new System.EventHandler(this.Login_Click);
             // 
             // Cadastro
             // 
@@ -57,6 +58,7 @@
             this.Cadastro.TabIndex = 3;
             this.Cadastro.Text = "Cadastro";
             this.Cadastro.UseSelectable = true;
+            this.Cadastro.Click += new System.EventHandler(this.Cadastro_Click);
             // 
             // Sair
             // 
@@ -66,6 +68,7 @@
             this.Sair.TabIndex = 4;
             this.Sair.Text = "Sair";
             this.Sair.UseSelectable = true;
+            this.Sair.Click += new System.EventHandler(this.Sair_Click);
             // 
             // roundPictureBox1
             // 

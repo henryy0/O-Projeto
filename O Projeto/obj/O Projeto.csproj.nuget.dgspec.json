@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carlos.hnsilva1\\source\\repos\\henryy0\\O-Projeto\\O Projeto\\O Projeto.csproj": {}
+    "C:\\Users\\carlos.hnsilva1\\Downloads\\O-Projeto\\O Projeto\\O Projeto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carlos.hnsilva1\\source\\repos\\henryy0\\O-Projeto\\O Projeto\\O Projeto.csproj": {
+    "C:\\Users\\carlos.hnsilva1\\Downloads\\O-Projeto\\O Projeto\\O Projeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carlos.hnsilva1\\source\\repos\\henryy0\\O-Projeto\\O Projeto\\O Projeto.csproj",
+        "projectUniqueName": "C:\\Users\\carlos.hnsilva1\\Downloads\\O-Projeto\\O Projeto\\O Projeto.csproj",
         "projectName": "O Projeto",
-        "projectPath": "C:\\Users\\carlos.hnsilva1\\source\\repos\\henryy0\\O-Projeto\\O Projeto\\O Projeto.csproj",
+        "projectPath": "C:\\Users\\carlos.hnsilva1\\Downloads\\O-Projeto\\O Projeto\\O Projeto.csproj",
         "packagesPath": "C:\\Users\\carlos.hnsilva1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carlos.hnsilva1\\source\\repos\\henryy0\\O-Projeto\\O Projeto\\obj\\",
+        "outputPath": "C:\\Users\\carlos.hnsilva1\\Downloads\\O-Projeto\\O Projeto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

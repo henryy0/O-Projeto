@@ -1,12 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
 using System.Globalization;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace O_Projeto
@@ -15,6 +8,8 @@ namespace O_Projeto
     {
         int month, year;
 
+        public static int static_month, static_year;
+
         public Calendario()
         {
             InitializeComponent();
@@ -22,18 +17,23 @@ namespace O_Projeto
 
         private void Calendario_Load(object sender, EventArgs e)
         {
-            displayDays();
+            DisplayCalendar();
         }
 
-        private void displayDays()
+        private void DisplayCalendar()
         {
             DateTime Now = DateTime.Now;
 
             month = Now.Month;
             year = Now.Year;
 
+            AdjustMonthYear();
+
             string monthname = DateTimeFormatInfo.CurrentInfo.GetMonthName(month);
             lbDate.Text = monthname + " " + year;
+
+            static_month = month;
+            static_year = year;
 
             DateTime startofthemonth = new DateTime(year, month, 1);
 
@@ -60,11 +60,12 @@ namespace O_Projeto
             daycontainer.Controls.Clear();
 
             month--;
+            AdjustMonthYear();
+            static_month = month;
+            static_year = year;
 
             string monthname = DateTimeFormatInfo.CurrentInfo.GetMonthName(month);
             lbDate.Text = monthname + " " + year;
-
-            DateTime Now = DateTime.Now;
 
             DateTime startofthemonth = new DateTime(year, month, 1);
 
@@ -91,11 +92,12 @@ namespace O_Projeto
             daycontainer.Controls.Clear();
 
             month++;
+            AdjustMonthYear();
+            static_month = month;
+            static_year = year;
 
             string monthname = DateTimeFormatInfo.CurrentInfo.GetMonthName(month);
             lbDate.Text = monthname + " " + year;
-
-            DateTime Now = DateTime.Now;
 
             DateTime startofthemonth = new DateTime(year, month, 1);
 
@@ -114,6 +116,20 @@ namespace O_Projeto
                 UserControlDays ucdays = new UserControlDays();
                 ucdays.days(i);
                 daycontainer.Controls.Add(ucdays);
+            }
+        }
+
+        private void AdjustMonthYear()
+        {
+            if (month < 1)
+            {
+                month = 12;
+                year--;
+            }
+            else if (month > 12)
+            {
+                month = 1;
+                year++;
             }
         }
     }

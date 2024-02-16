@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xPxASZDGAyFlB83BZv0YG6Kcuwlsn2dl0TaBJhvgbKx3YV0rdGLNwKhfovxh8ekfn+gu4SIOMvroS202ySN+0g==",
+  "dgSpecHash": "clHF+NujE6xpUmWIHLZEHFolhF7CS2iFIBKAPjPGSntX31ubm19pwKfwrFyE5KFLwIMdMtKEpJ5NoNNg0ksxcw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\carlos.hnsilva1\\source\\repos\\henryy0\\O-Projeto\\O Projeto\\O Projeto.csproj",
+  "projectFilePath": "C:\\Users\\carlos.hnsilva1\\Downloads\\O-Projeto\\O Projeto\\O Projeto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carlos.hnsilva1\\.nuget\\packages\\metromodernui\\1.4.0\\metromodernui.1.4.0.nupkg.sha512",
     "C:\\Users\\carlos.hnsilva1\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
